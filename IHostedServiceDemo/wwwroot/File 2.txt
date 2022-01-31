@@ -1,0 +1,2 @@
+WriteToFileHostedService : Doing some work 04/47/19 11:47:33
+WriteToFileHostedService : Process Started
